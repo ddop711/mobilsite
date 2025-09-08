@@ -18,6 +18,10 @@ img {
   width: 100%;
   height: auto;
   display: block;
+  margin-block: 10px;
+  border: white;
+  border-width: 2px;
+  border-style: solid;
 }
 
 header {
